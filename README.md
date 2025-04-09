@@ -8,17 +8,17 @@ A curious developer passionate about building scalable and user-friendly applica
 
 **Languages:** JavaScript, TypeScript, Zig, Go, Rust, HTML, CSS
 
-**Frameworks/Libraries:** React, Next.js, Tailwind CSS, Chakra UI, Framer Motion, React Hook Form, Zustand, potentially Angular (based on `radix ui for angular` search)
+**Frameworks/Libraries:** React, Next.js, Tailwind CSS, Chakra UI, Framer Motion, React Hook Form, Zustand, potentially Angular
 
-**Backend & DevOps:** Node.js, Spring Boot (searched `spring boot java`), WASI, Docker (inferred), gRPC (searched `grpc with encore`), RESTful APIs
+**Backend & DevOps:** Node.js, WASI, Docker, gRPC, RESTful APIs, Go
 
 **UI/UX Design:** Figma, Prototyping, UI Inspiration
 
-**Databases:** MongoDB, potentially Elasticsearch, Astra DB, Tigerbeetle (based on specific searches)
+**Databases:** NoSQLs (MongoDB, Cassandra, AWA Dynamo, Firebase, Redis), and SQLs (Postgres, MySQL, Sqlite)
 
-**Tools & Technologies:** Git, Webpack, npm/yarn/bun (searched for `bun ffi`, `install bun`), VSCode, Chrome Extensions (searched `how to build chrome extensions`)
+**Tools & Technologies:** Git, Webpack, npm/yarn/bun, Vite, Turborepo, VSCode, Chrome Extensions
 
-**Other:** Blockchain concepts (searched for blockchain related terms), interest in low-level programming and system programming (Zig focus), and application tracking systems (searched for `application tracking systems`, `meetfrank`).
+**Other:** Blockchain concepts, interest in low-level programming and system programming (Zig focus), and application tracking systems.
 
 ### Interests
 
@@ -29,13 +29,11 @@ A curious developer passionate about building scalable and user-friendly applica
 - Manga and Anime (based on frequent searches).
 - Self-improvement and learning new skills.
 
-### Projects & Contributions
-
-[You can link your notable projects or contributions here]
 
 ### Let's Connect
 
-[You can include links to your LinkedIn, Twitter, or other professional profiles here]
+[Linkedin](https://linkedin.com/in/famuyiwadayodaniel)
+[X (formerly known as Twitter)](https://x.com/___temidayo___)
 
 ---
 
