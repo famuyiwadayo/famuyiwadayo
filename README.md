@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Hi there 👋, I'm a Full-Stack Explorer | Crafting Digital Experiences with Code and Design
 
 [![Profile views](https://komarev.com/ghpvc/?username=famuyiwadayo&count=true&labelColor=blue&style=plastic)](https://github.com/famuyiwadayo)
