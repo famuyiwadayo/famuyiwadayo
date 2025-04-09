@@ -23,7 +23,6 @@ A curious developer passionate about building scalable and user-friendly applica
 [![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logoColor=white)](https://zustand-demo.pmnd.rs/)
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](https://spring.io/projects/spring-boot)
 [![WASI](https://img.shields.io/badge/WASI-644AFF?style=for-the-badge&logoColor=white)](https://wasi.dev/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)](https://grpc.io/)
